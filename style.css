@@ -19,7 +19,7 @@
 	color: var(--colorLight2);
 	
     background: linear-gradient(-45deg,#0f2027,#203a43,#2c5364,#4e4376,#2b5876);
-	background-size: 400% 400%;
+	/* background-size: 400% 400%; */
     animation: gradientMove 10s ease infinite;
 	 
 }
